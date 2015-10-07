@@ -18,7 +18,7 @@ Accessioning
 
 
 
-![server/client](/img/server-client.png)
+![server/client](lectures/img/server-client.png)
 
 
 
@@ -26,7 +26,7 @@ Accessioning
 
 
 
-![thick versus thin](/img/thick-thin.png)
+![thick versus thin](lectures/img/thick-thin.png)
 
 
 
@@ -34,7 +34,7 @@ Accessioning
 
 
 
-![web apps](/img/web-apps.png)
+![web apps](lectures/img/web-apps.png)
 
 
 
