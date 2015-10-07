@@ -18,11 +18,23 @@ Accessioning
 
 
 
+![server/client](/img/server-client.png)
+
+
+
 ### Thick versus thin clients
 
 
 
+![thick versus thin](/img/thick-thin.png)
+
+
+
 ### Web applications
+
+
+
+![web apps](/img/web-apps.png)
 
 
 
@@ -31,22 +43,21 @@ Accessioning
 
 
 ## Accessioning
-### Documenting the _process_ by which physical and legal control is attained
+### Documenting the _process_ by which physical and legal control is attained, thus creating intellectual control
 
 
 
 ### Continuum of theory and practice
-
-
-
-### Increasing emphasis on pre-custodial intervention
+Increasing emphasis on pre-custodial intervention, ongoing appraisal/reappraisal, assessment of preservation needs
 
 
 
 ### Create _structured_ data!
-spreadsheet &gt; text
+spreadsheet &gt; document
+
+controlled values &gt; free text
 
 
 
-### Don't create unnecessary burdens because you're scared of donors!
+### Don&rsquo;t create unnecessary burdens because you&rsquo;re scared of donors!
 They only give you what they want to give you
