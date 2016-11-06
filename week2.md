@@ -28,7 +28,7 @@ Help us collect the information necessary to develop standards of practice
 ## Archival representation has evolved and continues to evolve
 
 
-## Understand and appreciate legacy representations...so you can move past them and create useful foundations for the next generation
+## Understand and appreciate legacy representations...so you can iterate on them and create useful foundations for the next generation
 
 
 # Users and user needs

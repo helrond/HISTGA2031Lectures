@@ -12,13 +12,37 @@ Purposes of archival description
 
 
 
+# `#LIULockout`
+
+
+
+# Representation 
+
+# Power
+
+
+
 ## Class goals
 
 Users and usability
 
 Interoperability and repurposing
 
-Influence on and influenced by
+Relationship to other archival functions
+
+
+
+# Syllabus review
+
+
+
+## My Expectations
+
+You want to be here
+
+You&rsquo;ll do the work
+
+You are professionals
 
 
 
