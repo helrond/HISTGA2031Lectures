@@ -13,7 +13,7 @@ Archival representation &amp; information seeking behavior
 ## _Theories_ organize _thought_ organize _action_
 
 
-##Analytical frameworks encourage
+## Analytical frameworks encourage
 
 Systematic problem-solving
 
