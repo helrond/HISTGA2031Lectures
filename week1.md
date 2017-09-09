@@ -68,16 +68,16 @@ Description &rarr; descriptive instance &rarr; serialization
 
 
 
-## Archival description is...
-
-User-centric  
-Interoperable  
-Related to all parts of the archival enterprise
-
-
-
 ## Conceptual models
 
 Materials  
 Entities  
 Maybe more?
+
+
+
+## Archival description is...
+
+User-centric  
+Interoperable  
+Related to all parts of the archival enterprise
