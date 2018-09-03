@@ -113,7 +113,20 @@ Archival description exists to facilitate the use of archives by people in order
 <small>Describing Archives: A Content Standard (DACS), 2018</small>
 
 
+
+# Conceptual models
+
+
+
+## Process to product(s)
 Description &rarr; descriptive instance &rarr; serialization
+
+
+
+## Elements
+Content  
+Context(s) - creators, subjects, functions  
+Relationships
 
 
 
