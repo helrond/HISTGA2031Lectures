@@ -18,6 +18,18 @@ Purposes of archival description
 
 
 
+## Archival description is used by...
+
+
+
+## Archival description is created by...
+
+
+
+## Archival description is shaped by...
+
+
+
 ## Archival description does a good job of...
 
 
@@ -31,22 +43,6 @@ Purposes of archival description
 
 
 ## Archival description is overrated because...
-
-
-
-## Archival description is used by...
-
-
-
-## Archival description is created by...
-
-
-
-## Archival description is shaped by...
-
-
-
-## Archival description does not...
 
 
 
