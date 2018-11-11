@@ -12,10 +12,6 @@ Structure Standards
 
 
 
-# Types of Standards
-
-
-
 ## Structure Standards
 
 Machine-readable  
@@ -44,10 +40,6 @@ Support shared tools
 <span class="marc-indicator">Indicator</span>  
 <span class="marc-delimiter">Delimiter</span>  
 <span class="marc-subfield">Subfield Code</span>
-
-
-
-# EAD
 
 
 
@@ -88,14 +80,20 @@ Applies semantic meaning to content
 
 ## Structure
 
-`<eadheader/>`  
-`<frontmatter/>`  
-`<archdesc/>`
+```
+<eadheader>...</eadheader>
+<frontmatter>...</frontmatter>
+<archdesc>
+  <dsc>
+    <c>...</c>
+  </dsc>
+</archdesc>
+```
 
 
 
 ## EAC-CPF
-Developed in 2011, under review  
+Developed in 2011, under review (major and minor updates)
 An XML Schema  
 Used mostly in large consortia
 
@@ -103,11 +101,15 @@ Used mostly in large consortia
 
 ## Structure
 
-    <control/>
-    <cpfDescription/>
-
-    <control/>
-    <multipleIdentities>
-      <cpfDescription/>
-      <cpfDescription/>
-    </multipleIdentities>
+```
+<control/>
+<cpfDescription/>
+```
+or
+```
+<control>...</control>
+<multipleIdentities>
+  <cpfDescription>...</cpfDescription>
+  <cpfDescription>...</cpfDescription>
+</multipleIdentities>
+```
